@@ -5,5 +5,5 @@ Atividade do ímpar ou par:
 
 O jogo:
 
-![Inicio]("![impar_par](https://user-images.githubusercontent.com/100806678/202864016-978ce85b-30f7-4f50-857e-ecfa8e753bca.PNG)
-")
+
+![inicio](https://user-images.githubusercontent.com/100806678/202864045-57813e5c-ccd7-43e6-bf0d-32f4962d4bdc.PNG)
