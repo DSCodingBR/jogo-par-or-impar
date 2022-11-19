@@ -5,4 +5,4 @@ Atividade do ímpar ou par:
 
 O jogo:
 
-<src="https://uploaddeimagens.com.br/imagens/Ml9wWGM"></img>
+![Inicio]("https://uploaddeimagens.com.br/imagens/Ml9wWGM")
